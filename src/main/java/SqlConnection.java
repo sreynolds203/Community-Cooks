@@ -3,7 +3,7 @@ import java.sql.DriverManager;
 
 public class SqlConnection{
 
-        static String connect = "jdbc:postgresql://192.168.0.33:5432/cc";
+        static String connect = "jdbc:postgresql://localhost:5432/cc";
         static String roleUser = "pi";
         static String rolePass = "server";
         static Connection conn;
