@@ -1,0 +1,11 @@
+To begin, open the application by double-clicking the program file or by right-clicking the file and selecting open.
+
+If you have not registered with the application before, click Register at the bottom of the Sign-in window and fill out the registration form. Once complete, click save to return to the Sign-in window.
+
+Enter your username and password then click log in. A successful login will close the sign in page and open the main page of the application.
+
+Click the Create button to open the recipe builder page. add a recipe name and author for the recipe in the respecited fields. Add ingredients to the table by filling in the ingredient, quantity, and measurement fields and selecting Add. This can be repeated to add as many ingredients as needed. Delete an ingredient by selecting it in the table and clicking the Delete button. The steps area allows you to add steps for the recipe in paragraph form. When all fields are complete, select save.
+
+The main page will reload and show all of the recipe names that have been saved. Clicking on a recipe will show the recipe details in the detail are on the right side of the screen. 
+
+Recipes can be deleted by selecting a recipe name from the list and clicking the Delete button at the top of the screen.
